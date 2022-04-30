@@ -2,6 +2,6 @@
 Assignment for course 2 with LSE Data Analytics - Career Accelerator Programme
 
 ### Visualisations added in the folder.
-### All 5 data sets uploaded.
+### All 5 data sets uploaded in Files folder.
 ### Report uploaded.
 ### Jupyter Notebook uploaded.
